@@ -2,6 +2,7 @@
 
 ## Introducción
 Este documento refleja mi progreso en el camino hacia convertirme en un desarrollador backend competente, siguiendo el roadmap proporcionado por Roadmap.sh. Documento aquí los módulos que he completado, junto con proyectos personales y aprendizajes clave.
+Cabe mencionar que anteriormente fui desarrollador Web en Venezuela desde el 2007 y tuve un cambio de rumbo profesional como QA, y actualmente voy a retornar al Área como proyecto personal profesional.
 
 ## Enlace del RoadMap
 https://roadmap.sh/r?id=65ff626b6deb533d6e1d92f5
