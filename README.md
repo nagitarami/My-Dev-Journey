@@ -9,6 +9,12 @@ https://roadmap.sh/r?id=65ff626b6deb533d6e1d92f5
 
 ## Módulos de Aprendizaje
 
+### Internet
+- [x] ¿Cómo trabaja la internet?
+- [ ] La internet ha detalle
+- [ ] DNS y cómo funciona
+- [ ] Conceptos de Hosting y Servidores
+
 ### Fundamentos del Desarrollo Backend
 - [x] Entendimiento básico de Internet
 - [x] Protocolos básicos como HTTP, HTTPS
