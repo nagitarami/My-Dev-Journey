@@ -92,6 +92,39 @@ Haz clic en la imagen para ver el roadmap completo e interactivo en roadmap.sh.
 - Proyecto: sistema de ventas con login, CRUD, reportes y pruebas automatizadas
 
 ---
+## 📚 Recursos de aprendizaje por fases
+
+Este es el conjunto de cursos y recursos que seguiré alineado a las 5 fases de mi roadmap personalizado.
+
+### 🟦 Fase 1: Fundamentos de Python y pruebas básicas
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) – Fundamentos prácticos de Python.
+- [Curso "Introduction to pytest" – Test Automation University](https://testautomationu.applitools.com/pytest-tutorial/) – Testing con PyTest.
+- [Git y GitHub desde cero – Udemy](https://www.udemy.com/course/git-y-github-desde-cero/) – Control de versiones.
+
+### 🟩 Fase 2: Automatización UI/API avanzada (con IA)
+- [Selenium WebDriver with Python – Coursera](https://www.coursera.org/learn/selenium-webdriver-python) – Automatización UI.
+- [Playwright Python – Udemy](https://www.udemy.com/course/playwright-python-automation-testing-from-zero-to-expert/) – Automatización moderna.
+- [LangChain con Python – Udemy](https://www.udemy.com/course/langchain-with-python-bootcamp/) – IA aplicada al testing.
+
+### 🟨 Fase 3: DevOps y CI/CD para QA
+- [Guía: GitHub Actions para proyectos Python](https://pyimagesearch.com/2024/09/30/introduction-to-github-actions-for-python-projects/)
+- [Docker Essentials for Python – Udemy](https://www.udemy.com/course/docker-essentials-for-python-developers/) – Contenedores para QA.
+- [Python for DevOps Master Class – YouTube](https://www.youtube.com/watch?v=kwZNpieUreA) – Pipeline y automatización QA.
+
+### 🟥 Fase 4: Agentes inteligentes y copilotos (IA)
+- [LangChain para desarrollo con LLMs – DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) – Curso oficial.
+- [LangChain MasterClass – Coursera](https://www.coursera.org/learn/packt-langchain-masterclass-build-15-openai-and-llama-2-llm-apps-using-pyt-s2uus) – Aplicaciones IA con Python.
+
+### 🟪 Fase 5: Desarrollo Full Stack con Python
+- [FastAPI – Curso completo 2025 – Udemy](https://www.udemy.com/course/fastapi-the-complete-course/) – Backend moderno.
+- [Curso de React.js – Codecademy](https://www.codecademy.com/learn/react-101) – Fundamentos de frontend.
+- [Curso React en español – midudev](https://cursoreact.dev/) – React práctico y en español.
+
+---
+
+_**Este conjunto de recursos complementa y respalda cada etapa de mi aprendizaje en QA Automation, DevOps, IA y desarrollo full stack usando Python.**_
+
+---
 
 ## 💬 Reflexiones y Aprendizajes Clave
 
