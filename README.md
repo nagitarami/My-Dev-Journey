@@ -5,7 +5,12 @@ Este documento refleja mi progreso en el camino hacia convertirme en un desarrol
 Cabe mencionar que anteriormente fui desarrollador Web en Venezuela desde el 2007 y tuve un cambio de rumbo profesional como QA, y actualmente voy a retornar al Área como proyecto personal profesional.
 
 ## Enlace del RoadMap (Actualización continua)
-https://roadmap.sh/r?id=65ff626b6deb533d6e1d92f5
+## 🧭 QA Roadmap
+
+[![QA Roadmap](https://api.roadmap.sh/v1-badge/tall/6492f838e45f3400151c8667?variant=dark)](https://roadmap.sh/qa)
+
+Haz clic en la imagen para ver el roadmap completo e interactivo en roadmap.sh.
+
 
 ## Módulos de Aprendizaje
 
